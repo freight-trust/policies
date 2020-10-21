@@ -22,6 +22,6 @@
   "homepage": "https://github.com/freight-trust/policies",
   "dependencies": {
     "marked": "^1.0.0",
-    "@npm/mkp": "^1.0.2"
+    "mkdirp": "^1.0.4"
   }
 }
