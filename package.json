@@ -1,0 +1,27 @@
+{
+  "name": "@fr8/policies",
+  "version": "1.0.0",
+  "description": "corporate policies, documented",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/freight-trust/policies.git"
+  },
+  "keywords": [
+    "freight-trust",
+    "policies",
+    "documentation",
+    "conduct",
+    "disputes",
+    "privacy",
+    "trademark"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/freight-trust/policies/issues"
+  },
+  "homepage": "https://github.com/freight-trust/policies",
+  "dependencies": {
+    "marked": "^1.0.0",
+    "@npm/mkp": "^1.0.2"
+  }
+}
